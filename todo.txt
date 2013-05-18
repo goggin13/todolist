@@ -1,10 +1,12 @@
-test again and again
-HyperMapper
-SysSec P5
-pencere
-5300 P2
+
+book day extra in houston
+change flights to houston
+email landon
+email bk crew
+email kristen
+book room for lancaster
+find a place to meet pat
 http://stackoverflow.com/questions/14716151/why-does-rails-want-to-return-head-no-content-for-json-put-requests/15681226#15681226
-5430 HW5
 
 Mon
 
@@ -19,6 +21,4 @@ Friday
 Saturday
 
 Sunday
-  SysSec
-  HyperMapper
 
