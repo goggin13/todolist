@@ -6,6 +6,7 @@ email bk crew
 email kristen
 book room for lancaster
 find a place to meet pat
+run blog on hypermapper
 http://stackoverflow.com/questions/14716151/why-does-rails-want-to-return-head-no-content-for-json-put-requests/15681226#15681226
 
 Mon
