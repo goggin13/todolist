@@ -1,10 +1,11 @@
 
 book day extra in houston
+  emailed
 book truck
 email stephanie project description
-email kristen
 run blog on hypermapper
 dentist appointment
+  272-0901
 Tompkins Trust Company close account
 http://stackoverflow.com/questions/14716151/why-does-rails-want-to-return-head-no-content-for-json-put-requests/15681226#15681226
 cancel internet
