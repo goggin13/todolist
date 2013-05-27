@@ -1,6 +1,5 @@
 
 book truck
-email stephanie project description
 run blog on hypermapper
 dentist appointment
   272-0901
