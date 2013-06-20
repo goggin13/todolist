@@ -3,6 +3,7 @@ run blog on hypermapper
 Tompkins Trust Company close account
 Statler Paperwork
 Order contacts (when I have insurance)
+Change Bike Tires
 
 Mon
 
@@ -11,14 +12,7 @@ Tues
 Weds
 
 Thurs
-  Pack for Houston
   Pick up Dry Cleaning
-  Chuck
-  Richie
-  Loucks
-  Ellen
-  Kristen
-  Joel
   
 Friday
 
@@ -35,3 +29,4 @@ Loucks
 Ellen
 Kristen
 Joel
+Stephanie
