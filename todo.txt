@@ -15,16 +15,17 @@ Tues
 Weds
 
 Thurs
-  Print stuff
-  Statler Paperwork
   Take bike for tune up
-  Dry cleaning
   Get latest HyperClient and run tests
+  RSVP for sue and martha
   
 Friday
+  Statler Paperwork
   Write letters
   Braintree reading and documents
+    find passport
   Finish HyperMapper
+  Pick up Dry Cleaning
 
 Saturday
   launch dopest.me
