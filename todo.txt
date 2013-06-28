@@ -7,6 +7,7 @@ Launch
 Tompkins Trust Company close account
 Order contacts (when I have insurance)
 Prep Braintree documents and class prep
+Take bike for tune up
 
 Mon
 
@@ -15,17 +16,14 @@ Tues
 Weds
 
 Thurs
-  Take bike for tune up
   Get latest HyperClient and run tests
-  RSVP for sue and martha
   
 Friday
-  Statler Paperwork
   Write letters
   Braintree reading and documents
     find passport
   Finish HyperMapper
-  Pick up Dry Cleaning
+  Pick up Dry Cleaning after 5pm
 
 Saturday
   launch dopest.me
