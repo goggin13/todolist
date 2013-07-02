@@ -19,17 +19,12 @@ Thurs
   
 Friday
   Get latest HyperClient and run tests
-  Braintree reading and documents
-    find passport
 
 Saturday
-  Pick up Dry Cleaning 
   Finish HyperMapper
   launch dopest.me
-    add brain tree extension
 
 Sunday
-  Write letters
 
 Chuck
 K&S
