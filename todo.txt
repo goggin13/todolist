@@ -1,45 +1,36 @@
 
-run blog on hypermapper
-  Email Robert
 Launch
   dopest.me
 Tompkins Trust Company close account
 Order contacts (when I have insurance)
-Prep Braintree documents and class prep
 Take bike for tune up
-get sec deposit from ithaca
 
 Mon
+  get sec deposit from ithaca
+  Chuck
+  Richie
 
 Tues
+  Loucks
+  Ellen
+  Kristen
 
 Weds
+  Joel
+  Stephanie
 
 Thurs
+  Sue
+  Yoshi
+  Neil & Sally
   
 Friday
-  Get latest HyperClient and run tests
+  K&S
 
 Saturday
-  Finish HyperMapper
-  launch dopest.me
 
 Sunday
-
-Chuck
-K&S
-Richie
-Loucks
-Ellen
-Kristen
-Joel
-Stephanie
-Sue
-Yoshi
-Neil & Sally
-
-
-lomd
-  email notifications
+  Try HyperMapper
+  Finish! dopest.me and email JR, Jake
 
 
