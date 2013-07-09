@@ -10,7 +10,6 @@ get sec deposit from ithaca
 
 Mon
   cancel smartcard insurance
-  Chuck
 
 Tues
   Order contacts (when I have insurance)
